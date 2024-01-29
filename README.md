@@ -1,2 +1,2 @@
-# Hospital_SQL_PROJECT
+# SQL_PROJECTs
 My sql files
